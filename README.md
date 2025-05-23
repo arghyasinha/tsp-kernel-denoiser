@@ -7,7 +7,7 @@
 
 ## ✍️ Authors
 
-- [**Arghya Sinha**](https://arghyasinha.github.io)
+- [Arghya Sinha](https://arghyasinha.github.io)
 - Bhartendu Kumar
 - [Chirayu D. Athalye](https://sites.google.com/view/chirayuathalye/home)
 - [Kunal N. Chaudhury](https://sites.google.com/site/kunalnchaudhury/home)
